@@ -13,8 +13,9 @@ func opred1(a int) {
 }
 
 func main() {
-	opred1(0)
-	opred1(4)
-	opred1(9)
-	opred1(112)
+	var a int
+	fmt.Print("Введите число: ")
+	fmt.Scan(&a)
+	opred1(a)
+
 }
