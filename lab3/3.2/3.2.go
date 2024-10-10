@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"mathutils"
+	"lab3/mathutils"
 )
 
 func main() {

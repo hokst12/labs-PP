@@ -7,6 +7,6 @@ func length(a string) int {
 }
 
 func main() {
-	a := "Kobachok"
+	a := "Кобачок"
 	fmt.Println(length(a))
 }

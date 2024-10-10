@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"stringutils"
+	"lab3/stringutils"
 )
 
 func main() {
